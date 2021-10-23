@@ -7,16 +7,30 @@ systemdir=$1
 
 apps_dir="
 CameraTools
-Mipay
+com.xiaomi.macro
+HybridPlatform
+mab
+MiLink
+MIpay
+MIUIAccessibility
 MiuiBugReport
+MIUIgreenguard
+MiGameCenterSDKService
+MSA
 Browser
-Calendar
+Mirror
+MIService
+MIShare
+MIUICalendar
 MiuiCamera
-MiuiGallery
-MiuiVideo
-Music
-QuickSearchBox
-talkback
+MIUIGallery
+MIUIVideo
+MIUIMusic
+MIUIQuickSearchBox
+VoiceAssist
+VoiceTrigger
+TSMClient
+NextPay
 "
 
 for delete_dir in $apps_dir ;do
