@@ -12,7 +12,9 @@ HybridPlatform
 mab
 MiLink
 MIpay
+MIUIAod
 MIUIAccessibility
+MIUITouchAssistant
 MiuiBugReport
 MIUIgreenguard
 MiGameCenterSDKService
